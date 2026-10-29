@@ -348,7 +348,7 @@ export default {
           "dlj.tf": "https://dlj.tf/short",
         },
         customBackend: {
-          "MY提供-自建转换后端": "https://psub.tonnger2026.workers.dev",
+          "MY提供-自建转换后端": "https://psub.camry.de5.net",
           "CM提供-负载均衡后端": "https://subapi.cmliussss.net",
           "CM提供-应急备用后端": "https://subapi.fxxk.dedyn.io",
           "肥羊提供-增强型后端": "https://url.v1.mk",
